@@ -1,0 +1,43 @@
+.profile {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 50px 1px #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.description {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.stats {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+    padding: 0;
+}
+
+.stats__item {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    border: 1px solid lightgray;
+    width: 100%;
+}
+
+.quantity {
+    text-align: center;
+}
+
+
+

@@ -1,0 +1,16 @@
+.statistics {
+    display: flex;
+    justify-content: center;
+}
+
+.statList {
+    display: flex;
+    list-style: none;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 150px;
+}
