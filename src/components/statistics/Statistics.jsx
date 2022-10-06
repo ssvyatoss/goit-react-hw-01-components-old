@@ -1,5 +1,5 @@
 import data from '../Moc/data.json';
-import css from '../components/modules/statistics.module.css';
+import css from './statistics.module.css';
 
 export const Statistics = ({ title, stats }) => {
   const randomColor = () => Math.floor(Math.random()*16777215).toString(16);

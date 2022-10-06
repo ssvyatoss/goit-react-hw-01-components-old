@@ -1,5 +1,5 @@
-import { TransactionHistoryItem } from 'components/TransactionHistoryItem';
-import css from '../components/modules/transactionHistory.module.css';
+import { TransactionHistoryItem } from 'components/transactionHistory/TransactionHistoryItem';
+import css from './transactionHistory.module.css';
 
 export const TransactionsHistory = ({ items }) => {
     console.log(items);

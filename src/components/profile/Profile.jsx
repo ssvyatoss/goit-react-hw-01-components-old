@@ -1,5 +1,5 @@
 import user from '../Moc/user.json';
-import css from '../components/modules/profile.module.css'
+import css from './profile.module.css'
 // npx kill port ***
 
 export const Profile = ({ username, tag, location, avatar, stats }) => {
