@@ -1,4 +1,4 @@
-import data from '../Moc/data.json';
+import data from '../../Moc/data.json';
 import css from './statistics.module.css';
 
 export const Statistics = ({ title, stats }) => {

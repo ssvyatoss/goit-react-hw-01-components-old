@@ -1,4 +1,4 @@
-import { TransactionHistoryItem } from 'components/transactionHistory/TransactionHistoryItem';
+import { TransactionHistoryItem } from './TransactionHistoryItem';
 import css from './transactionHistory.module.css';
 
 export const TransactionsHistory = ({ items }) => {
